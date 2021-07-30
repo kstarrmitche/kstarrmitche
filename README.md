@@ -1,10 +1,17 @@
 ### Hi there 👋
 
-My name is Kathy! I'm a Front-End Developer in the home security space. I have soft spot for C# and React :) ! 
+My name is Kathy! I'm a Front-End Developer in the home security space. I have soft spot for C# and React 😄! 
 
 ### How to reach me
-![Discord](https://img.shields.io/badge/trashleen%237756-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+Have some good dev resources to share? Wanna talk about the hottest js library of week? Into house music 🎹? Ping me! 
 
+[![Discord](https://img.shields.io/badge/trashleen%237756-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+
+[![Dev.to](https://img.shields.io/badge/kstarrmitche-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kstarrmitche)
+
+### What I'm currently learning
+- leveling up my cloud/devops knowledge 
+- WebGL 
 
 ### My Stats
 
